@@ -3,6 +3,7 @@ class f2{
   {
     System.out.println("Learning Merging in git and github");
      System.out.println("updated in feature");
-  }
+ 
+    System.out.println("Updated");
   }
 }
